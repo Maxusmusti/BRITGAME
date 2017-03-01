@@ -1,0 +1,9 @@
+c:\users\maxus\documents\visual studio 2015\Projects\BRITGAME\BRITGAME\bin\Debug\BRITGAME.exe.config
+c:\users\maxus\documents\visual studio 2015\Projects\BRITGAME\BRITGAME\bin\Debug\BRITGAME.exe
+c:\users\maxus\documents\visual studio 2015\Projects\BRITGAME\BRITGAME\bin\Debug\BRITGAME.pdb
+c:\users\maxus\documents\visual studio 2015\Projects\BRITGAME\BRITGAME\obj\Debug\BRITGAME.Form1.resources
+c:\users\maxus\documents\visual studio 2015\Projects\BRITGAME\BRITGAME\obj\Debug\BRITGAME.Properties.Resources.resources
+c:\users\maxus\documents\visual studio 2015\Projects\BRITGAME\BRITGAME\obj\Debug\BRITGAME.csproj.GenerateResource.Cache
+c:\users\maxus\documents\visual studio 2015\Projects\BRITGAME\BRITGAME\obj\Debug\BRITGAME.exe
+c:\users\maxus\documents\visual studio 2015\Projects\BRITGAME\BRITGAME\obj\Debug\BRITGAME.pdb
+C:\Users\maxus\documents\visual studio 2015\Projects\BRITGAME\BRITGAME\obj\Debug\BRITGAME.csprojResolveAssemblyReference.cache
